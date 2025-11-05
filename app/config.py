@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     PHONE_NUMBER_ID: str
     RECIPIENT_PHONE_NUMBER: str
     ACCESS_TOKEN: str
-    
+    OPENAI_API_KEY: str
 
     model_config = SettingsConfigDict(
             env_file=Path(__file__).parent / ".env",
