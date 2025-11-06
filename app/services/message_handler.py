@@ -1,12 +1,10 @@
 from typing import Dict, Any
-from .gpt_agent import GPTAgent
 from .whatsapp_service import WhatsAppService
 from .conversation_service import ConversationService
 from ..agents.assistant_agent import agent
 
 class MessageHandler:
     def __init__(self):
-        # self.gpt_agent = GPTAgent()
         self.whatsapp_service = WhatsAppService()
         self.conversation_service = ConversationService()
 
