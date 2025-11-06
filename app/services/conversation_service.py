@@ -1,14 +1,8 @@
-from supabase import create_client, Client
-from ..config import Config
+from ..database import get_supabase_client
 
 class ConversationService:
-    supabase: Client = create_client(
-        Config.SUPABASE_URL,
-        Config.SUPABASE_SERVICE_ROLE
-    )
-
     def __init__(self):
-        pass
+        self.supabase = get_supabase_client()
 
     def save_message(self, wa_id: str, role: str, content: str):
         data = {
