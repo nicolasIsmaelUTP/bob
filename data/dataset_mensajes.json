@@ -1,0 +1,5858 @@
+[
+  {
+    "message_id": 1,
+    "lead_id": "LEAD-001",
+    "mensaje": "Quiero ofertar en varios lotes, cómo procedo?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 45,
+    "palabras_clave": [
+      "lote",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 2,
+    "lead_id": "LEAD-002",
+    "mensaje": "Solo estoy revisando qué hay",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 28,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 3,
+    "lead_id": "LEAD-003",
+    "mensaje": "Aún no estoy decidido.",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 22,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 4,
+    "lead_id": "LEAD-004",
+    "mensaje": "Quisiera saber más sobre los lotes.",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 35,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 5,
+    "lead_id": "LEAD-005",
+    "mensaje": "Confirmen mi participación en la subasta de camiones",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 52,
+    "palabras_clave": [
+      "subasta",
+      "precio"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 6,
+    "lead_id": "LEAD-006",
+    "mensaje": "¿Puedo hacer preguntas antes de participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 43,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 7,
+    "lead_id": "LEAD-007",
+    "mensaje": "Quiero participar en la subasta de vehículos",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "financiamiento"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 8,
+    "lead_id": "LEAD-008",
+    "mensaje": "Más adelante tal vez participe",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 30,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 9,
+    "lead_id": "LEAD-009",
+    "mensaje": "¿Cuál es el monto mínimo de depósito?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 37,
+    "palabras_clave": [
+      "depósito",
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 10,
+    "lead_id": "LEAD-010",
+    "mensaje": "He realizado el transferencia de la garantía",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "garantía",
+      "transferencia"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 11,
+    "lead_id": "LEAD-011",
+    "mensaje": "Todavía no tengo claro si participo",
+    "sentimiento": "negativo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 35,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 12,
+    "lead_id": "LEAD-012",
+    "mensaje": "Solo necesitaba información básica",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 34,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 13,
+    "lead_id": "LEAD-013",
+    "mensaje": "¿Cómo puedo registrarme para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 14,
+    "lead_id": "LEAD-014",
+    "mensaje": "Ya realicé el pago, cuándo me confirman?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "pago",
+      "visita",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 15,
+    "lead_id": "LEAD-015",
+    "mensaje": "Quisiera saber más sobre el proceso",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 35,
+    "palabras_clave": [
+      "voucher",
+      "asesor"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 16,
+    "lead_id": "LEAD-016",
+    "mensaje": "¿Cómo puedo acceder a la plataforma?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 36,
+    "palabras_clave": [
+      "plataforma"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 17,
+    "lead_id": "LEAD-017",
+    "mensaje": "Hay opciones de financiamiento disponibles?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 43,
+    "palabras_clave": [
+      "financiamiento"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 18,
+    "lead_id": "LEAD-018",
+    "mensaje": "¿Qué garantías tienen los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 32,
+    "palabras_clave": [
+      "garantía",
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 19,
+    "lead_id": "LEAD-019",
+    "mensaje": "Cuál es el costo para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 33,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 20,
+    "lead_id": "LEAD-020",
+    "mensaje": "Confirmen por favor que recibieron mi depósito",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 46,
+    "palabras_clave": [
+      "depósito",
+      "voucher",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 21,
+    "lead_id": "LEAD-021",
+    "mensaje": "He realizado el registro de la garantía",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 39,
+    "palabras_clave": [
+      "garantía",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 22,
+    "lead_id": "LEAD-022",
+    "mensaje": "¿Cuándo es el horario?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 22,
+    "palabras_clave": [
+      "resultado",
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 23,
+    "lead_id": "LEAD-023",
+    "mensaje": "¿Puedo ofertar sin estar presente físicamente?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 46,
+    "palabras_clave": [
+      "ofertar",
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 24,
+    "lead_id": "LEAD-024",
+    "mensaje": "Solo quería saber precios",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [
+      "precio"
+    ],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 25,
+    "lead_id": "LEAD-025",
+    "mensaje": "¿Qué garantías necesito para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "garantía",
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 26,
+    "lead_id": "LEAD-026",
+    "mensaje": "Solo viendo información",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 27,
+    "lead_id": "LEAD-027",
+    "mensaje": "¿Cómo funciona el sistema de depósito?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 38,
+    "palabras_clave": [
+      "depósito"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 28,
+    "lead_id": "LEAD-028",
+    "mensaje": "Estoy evaluando.",
+    "sentimiento": "neutro",
+    "num_palabras": 2,
+    "num_preguntas": 0,
+    "longitud": 16,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 29,
+    "lead_id": "LEAD-029",
+    "mensaje": "Confirmen mi registro para la subasta de equipos",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 48,
+    "palabras_clave": [
+      "subasta",
+      "registro",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 30,
+    "lead_id": "LEAD-030",
+    "mensaje": "Quiero participar activamente en la subasta de vehículos",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 56,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 31,
+    "lead_id": "LEAD-031",
+    "mensaje": "Solo estaba revisando información.",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 34,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 32,
+    "lead_id": "LEAD-032",
+    "mensaje": "Solo quería saber más",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 33,
+    "lead_id": "LEAD-033",
+    "mensaje": "¿Qué documentos necesito para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 41,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 34,
+    "lead_id": "LEAD-034",
+    "mensaje": "Solo estoy revisando información general",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 40,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 35,
+    "lead_id": "LEAD-035",
+    "mensaje": "Me interesa participar, ¿qué información necesitan?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 51,
+    "palabras_clave": [
+      "participar",
+      "voucher"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 36,
+    "lead_id": "LEAD-036",
+    "mensaje": "Necesito información sobre el financiamiento",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "financiamiento",
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 37,
+    "lead_id": "LEAD-037",
+    "mensaje": "Aún no estoy seguro",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 19,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 38,
+    "lead_id": "LEAD-038",
+    "mensaje": "Solo quería información",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 39,
+    "lead_id": "LEAD-039",
+    "mensaje": "Cuánto tiempo tengo para hacer el pago?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 39,
+    "palabras_clave": [
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 40,
+    "lead_id": "LEAD-040",
+    "mensaje": "Todavía no me he decidido",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 41,
+    "lead_id": "LEAD-041",
+    "mensaje": "Ya realicé el pago, ¿cuándo me confirman?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 41,
+    "palabras_clave": [
+      "pago",
+      "garantía",
+      "depósito"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 42,
+    "lead_id": "LEAD-042",
+    "mensaje": "¿Qué documentos necesito?",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 1,
+    "longitud": 25,
+    "palabras_clave": [
+      "garantía",
+      "voucher"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 43,
+    "lead_id": "LEAD-043",
+    "mensaje": "He completado el registro y el depósito, pueden confirmar?",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 1,
+    "longitud": 58,
+    "palabras_clave": [
+      "depósito",
+      "confirmar",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 44,
+    "lead_id": "LEAD-044",
+    "mensaje": "Solo estoy revisando 57",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 45,
+    "lead_id": "LEAD-045",
+    "mensaje": "Me interesa, ¿pueden enviarme más información?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 46,
+    "palabras_clave": [
+      "voucher"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 46,
+    "lead_id": "LEAD-046",
+    "mensaje": "He realizado el depósito, espero instrucciones",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 46,
+    "palabras_clave": [
+      "depósito",
+      "confirmar",
+      "pago"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 47,
+    "lead_id": "LEAD-047",
+    "mensaje": "¿Qué precio tienen los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 29,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 48,
+    "lead_id": "LEAD-048",
+    "mensaje": "Tal vez en otra subasta",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 49,
+    "lead_id": "LEAD-049",
+    "mensaje": "Todavía no me he decidido.",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 50,
+    "lead_id": "LEAD-050",
+    "mensaje": "Puedo ver los lotes antes de la subasta?",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "subasta",
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 51,
+    "lead_id": "LEAD-051",
+    "mensaje": "Aún no me he decidido.",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 22,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 52,
+    "lead_id": "LEAD-052",
+    "mensaje": "Solo estoy consultando 77",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 53,
+    "lead_id": "LEAD-053",
+    "mensaje": "Confirmen mi registro para la subasta de hoy",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "subasta",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 54,
+    "lead_id": "LEAD-054",
+    "mensaje": "Solo necesitaba información",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 27,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 55,
+    "lead_id": "LEAD-055",
+    "mensaje": "¿Qué es el costo?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 17,
+    "palabras_clave": [
+      "lote",
+      "plataforma"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 56,
+    "lead_id": "LEAD-056",
+    "mensaje": "Estoy interesado en participar en la subasta de equipos",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 55,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "transferencia"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 57,
+    "lead_id": "LEAD-057",
+    "mensaje": "¿Puedo consultar los precios?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 29,
+    "palabras_clave": [
+      "precio",
+      "resultado"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 58,
+    "lead_id": "LEAD-058",
+    "mensaje": "Confirmen mi inscripción",
+    "sentimiento": "positivo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [
+      "lote",
+      "resultado",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 59,
+    "lead_id": "LEAD-059",
+    "mensaje": "Solo estoy revisando 61",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 60,
+    "lead_id": "LEAD-060",
+    "mensaje": "He realizado el depósito inicial, qué sigue?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 44,
+    "palabras_clave": [
+      "depósito",
+      "registro",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 61,
+    "lead_id": "LEAD-061",
+    "mensaje": "No estoy seguro si participo",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 28,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 62,
+    "lead_id": "LEAD-062",
+    "mensaje": "¿Cómo se confirma la participación?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 35,
+    "palabras_clave": [
+      "resultado"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 63,
+    "lead_id": "LEAD-063",
+    "mensaje": "He completado todos los documentos necesarios",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "subasta",
+      "voucher",
+      "resultado"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 64,
+    "lead_id": "LEAD-064",
+    "mensaje": "Confirmen mi participación en la subasta de camiones",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 52,
+    "palabras_clave": [
+      "subasta",
+      "ofertar",
+      "lote"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 65,
+    "lead_id": "LEAD-065",
+    "mensaje": "Cómo puedo acceder a la plataforma?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 35,
+    "palabras_clave": [
+      "plataforma"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 66,
+    "lead_id": "LEAD-066",
+    "mensaje": "No tengo claro todavía",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 22,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 67,
+    "lead_id": "LEAD-067",
+    "mensaje": "Estoy considerando",
+    "sentimiento": "neutro",
+    "num_palabras": 2,
+    "num_preguntas": 0,
+    "longitud": 18,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 68,
+    "lead_id": "LEAD-068",
+    "mensaje": "Estoy interesado en participar en la subasta de hoy",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 51,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 69,
+    "lead_id": "LEAD-069",
+    "mensaje": "Estoy considerando las opciones",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 31,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 70,
+    "lead_id": "LEAD-070",
+    "mensaje": "Me interesa participar, ¿qué requisitos necesito?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 49,
+    "palabras_clave": [
+      "participar",
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 71,
+    "lead_id": "LEAD-071",
+    "mensaje": "¿Puedo contactar con un representante?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 38,
+    "palabras_clave": [
+      "transferencia"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 72,
+    "lead_id": "LEAD-072",
+    "mensaje": "Ya pagué la garantía, ¿puedo participar ahora?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 46,
+    "palabras_clave": [
+      "garantía",
+      "participar",
+      "resultado"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 73,
+    "lead_id": "LEAD-073",
+    "mensaje": "He enviado todos los documentos y el pago",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 41,
+    "palabras_clave": [
+      "pago",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 74,
+    "lead_id": "LEAD-074",
+    "mensaje": "Solo estoy informándome",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 75,
+    "lead_id": "LEAD-075",
+    "mensaje": "Confirmen mi participación en la subasta de automóviles",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 55,
+    "palabras_clave": [
+      "subasta",
+      "depósito"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 76,
+    "lead_id": "LEAD-076",
+    "mensaje": "Estoy listo para ofertar en el lote número 16",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "lote",
+      "ofertar",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 77,
+    "lead_id": "LEAD-077",
+    "mensaje": "¿Qué garantía necesito para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 39,
+    "palabras_clave": [
+      "garantía",
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 78,
+    "lead_id": "LEAD-078",
+    "mensaje": "¿Cómo puedo obtener acceso a la plataforma?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 43,
+    "palabras_clave": [
+      "plataforma"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 79,
+    "lead_id": "LEAD-079",
+    "mensaje": "Aún no estoy decidido",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 80,
+    "lead_id": "LEAD-080",
+    "mensaje": "Confirmen por favor mi registro en la subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "subasta",
+      "registro",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 81,
+    "lead_id": "LEAD-081",
+    "mensaje": "Confirmen por favor mi participación en la subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 50,
+    "palabras_clave": [
+      "subasta",
+      "voucher"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 82,
+    "lead_id": "LEAD-082",
+    "mensaje": "Deseo participar en la subasta de hoy",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 37,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 83,
+    "lead_id": "LEAD-083",
+    "mensaje": "He completado el registro, ¿puedo participar ya?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 48,
+    "palabras_clave": [
+      "participar",
+      "registro",
+      "comprobante"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 84,
+    "lead_id": "LEAD-084",
+    "mensaje": "Ya envié el documento",
+    "sentimiento": "positivo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [
+      "registro",
+      "lote"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 85,
+    "lead_id": "LEAD-085",
+    "mensaje": "Qué incluye el proceso de registro?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 35,
+    "palabras_clave": [
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 86,
+    "lead_id": "LEAD-086",
+    "mensaje": "Ya envié el depósito, necesito confirmación urgente",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 51,
+    "palabras_clave": [
+      "depósito",
+      "voucher",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 87,
+    "lead_id": "LEAD-087",
+    "mensaje": "Aún no tengo claro si participo",
+    "sentimiento": "negativo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 31,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 88,
+    "lead_id": "LEAD-088",
+    "mensaje": "Aún no estoy seguro.",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 20,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 89,
+    "lead_id": "LEAD-089",
+    "mensaje": "Quiero participar activamente en la subasta de maquinaria",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 57,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "financiamiento"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 90,
+    "lead_id": "LEAD-090",
+    "mensaje": "Quiero ofertar en varios lotes, ¿cómo procedo?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 46,
+    "palabras_clave": [
+      "lote",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 91,
+    "lead_id": "LEAD-091",
+    "mensaje": "Necesito el voucher para acceder a la subasta",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "voucher",
+      "subasta"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 92,
+    "lead_id": "LEAD-092",
+    "mensaje": "¿Cómo es el monto?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 18,
+    "palabras_clave": [
+      "comprobante",
+      "financiamiento"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 93,
+    "lead_id": "LEAD-093",
+    "mensaje": "Solo necesitaba información básica.",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 35,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 94,
+    "lead_id": "LEAD-094",
+    "mensaje": "Aún no me he decidido",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 95,
+    "lead_id": "LEAD-095",
+    "mensaje": "Aún estoy evaluando si me conviene",
+    "sentimiento": "negativo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 34,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 96,
+    "lead_id": "LEAD-096",
+    "mensaje": "Me interesa participar",
+    "sentimiento": "positivo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 22,
+    "palabras_clave": [
+      "participar",
+      "transferencia"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 97,
+    "lead_id": "LEAD-097",
+    "mensaje": "Necesito el acceso a la plataforma de subasta",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "subasta",
+      "plataforma",
+      "comprobante"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 98,
+    "lead_id": "LEAD-098",
+    "mensaje": "Confirmen mi participación",
+    "sentimiento": "positivo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [
+      "registro",
+      "financiamiento",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 99,
+    "lead_id": "LEAD-099",
+    "mensaje": "Estoy viendo qué hay disponible",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 31,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 100,
+    "lead_id": "LEAD-100",
+    "mensaje": "Solo estoy revisando 53",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 101,
+    "lead_id": "LEAD-101",
+    "mensaje": "¿Puedo consultar con un asesor antes?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 37,
+    "palabras_clave": [
+      "asesor"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 102,
+    "lead_id": "LEAD-102",
+    "mensaje": "Estoy listo para ofertar, cuándo empieza?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 41,
+    "palabras_clave": [
+      "ofertar",
+      "resultado",
+      "financiamiento"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 103,
+    "lead_id": "LEAD-103",
+    "mensaje": "Quiero ofertar en la subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 28,
+    "palabras_clave": [
+      "subasta",
+      "ofertar",
+      "resultado"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 104,
+    "lead_id": "LEAD-104",
+    "mensaje": "Quiero participar en la subasta de automóviles",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 46,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "voucher"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 105,
+    "lead_id": "LEAD-105",
+    "mensaje": "¿Qué incluye el proceso de registro?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 36,
+    "palabras_clave": [
+      "registro",
+      "precio"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 106,
+    "lead_id": "LEAD-106",
+    "mensaje": "Todavía no estoy seguro.",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 107,
+    "lead_id": "LEAD-107",
+    "mensaje": "Solo consulté por curiosidad",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 28,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 108,
+    "lead_id": "LEAD-108",
+    "mensaje": "Estoy revisando si me interesa",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 30,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 109,
+    "lead_id": "LEAD-109",
+    "mensaje": "Me interesa, pueden contactarme?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 32,
+    "palabras_clave": [
+      "voucher",
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 110,
+    "lead_id": "LEAD-110",
+    "mensaje": "Ya hice el pago de la garantía, por favor confirmen",
+    "sentimiento": "positivo",
+    "num_palabras": 10,
+    "num_preguntas": 0,
+    "longitud": 51,
+    "palabras_clave": [
+      "pago",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 111,
+    "lead_id": "LEAD-111",
+    "mensaje": "Solo estaba revisando 43",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 112,
+    "lead_id": "LEAD-112",
+    "mensaje": "Solo necesitaba saber de qué se trata",
+    "sentimiento": "negativo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 37,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 113,
+    "lead_id": "LEAD-113",
+    "mensaje": "Estoy listo para participar en la subasta de automóviles",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 56,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "comprobante"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 114,
+    "lead_id": "LEAD-114",
+    "mensaje": "¿Puedo consultar más detalles sobre los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 46,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 115,
+    "lead_id": "LEAD-115",
+    "mensaje": "Quiero participar en la subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 31,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 116,
+    "lead_id": "LEAD-116",
+    "mensaje": "Solo estaba revisando 66",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 117,
+    "lead_id": "LEAD-117",
+    "mensaje": "Puedo hacer una visita previa a los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 42,
+    "palabras_clave": [
+      "lote",
+      "visita"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 118,
+    "lead_id": "LEAD-118",
+    "mensaje": "Solo estoy revisando 25",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 119,
+    "lead_id": "LEAD-119",
+    "mensaje": "Me interesa saber más",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 120,
+    "lead_id": "LEAD-120",
+    "mensaje": "Cuál es el proceso completo de participación?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 45,
+    "palabras_clave": [
+      "financiamiento",
+      "confirmar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 121,
+    "lead_id": "LEAD-121",
+    "mensaje": "¿Puedo hablar con un representante?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 35,
+    "palabras_clave": [
+      "participar",
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 122,
+    "lead_id": "LEAD-122",
+    "mensaje": "Estoy listo para participar en la subasta de maquinaria",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 55,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 123,
+    "lead_id": "LEAD-123",
+    "mensaje": "Solo estaba revisando 37",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 124,
+    "lead_id": "LEAD-124",
+    "mensaje": "He completado todos los requisitos, puedo participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 53,
+    "palabras_clave": [
+      "participar",
+      "pago",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 125,
+    "lead_id": "LEAD-125",
+    "mensaje": "Tal vez en otra oportunidad.",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 28,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 126,
+    "lead_id": "LEAD-126",
+    "mensaje": "Solo estoy revisando las opciones disponibles",
+    "sentimiento": "negativo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 127,
+    "lead_id": "LEAD-127",
+    "mensaje": "Me interesa, ¿pueden contactarme?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 33,
+    "palabras_clave": [
+      "registro",
+      "transferencia"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 128,
+    "lead_id": "LEAD-128",
+    "mensaje": "Necesito más detalles sobre la participación.",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 129,
+    "lead_id": "LEAD-129",
+    "mensaje": "Puedo ver información detallada de los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 45,
+    "palabras_clave": [
+      "lote",
+      "asesor"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 130,
+    "lead_id": "LEAD-130",
+    "mensaje": "¿Cómo funciona el proceso de pago?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 34,
+    "palabras_clave": [
+      "pago",
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 131,
+    "lead_id": "LEAD-131",
+    "mensaje": "Necesito información sobre los lotes",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [
+      "lote",
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 132,
+    "lead_id": "LEAD-132",
+    "mensaje": "Solo estoy viendo qué existe",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 28,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 133,
+    "lead_id": "LEAD-133",
+    "mensaje": "Ya realicé la inscripción",
+    "sentimiento": "positivo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [
+      "depósito",
+      "pago",
+      "plataforma"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 134,
+    "lead_id": "LEAD-134",
+    "mensaje": "Todavía estoy pensándolo",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 135,
+    "lead_id": "LEAD-135",
+    "mensaje": "Aún estoy evaluando",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 19,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 136,
+    "lead_id": "LEAD-136",
+    "mensaje": "Solo estoy revisando 63",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 137,
+    "lead_id": "LEAD-137",
+    "mensaje": "Necesito más información sobre los lotes",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 40,
+    "palabras_clave": [
+      "lote",
+      "garantía"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 138,
+    "lead_id": "LEAD-138",
+    "mensaje": "Solo quería información general",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 31,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 139,
+    "lead_id": "LEAD-139",
+    "mensaje": "Cómo puedo registrarme para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 39,
+    "palabras_clave": [
+      "participar",
+      "transferencia"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 140,
+    "lead_id": "LEAD-140",
+    "mensaje": "Quisiera saber más sobre los lotes",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 34,
+    "palabras_clave": [
+      "lote",
+      "garantía"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 141,
+    "lead_id": "LEAD-141",
+    "mensaje": "Estoy viendo si me conviene",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 27,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 142,
+    "lead_id": "LEAD-142",
+    "mensaje": "Aún no tengo claro",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 18,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 143,
+    "lead_id": "LEAD-143",
+    "mensaje": "Confirmen por favor que procesaron mi pago",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 42,
+    "palabras_clave": [
+      "pago",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 144,
+    "lead_id": "LEAD-144",
+    "mensaje": "Ya realicé la transferencia",
+    "sentimiento": "positivo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 27,
+    "palabras_clave": [
+      "transferencia",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 145,
+    "lead_id": "LEAD-145",
+    "mensaje": "¿Puedo ver los precios?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 23,
+    "palabras_clave": [
+      "precio",
+      "garantía"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 146,
+    "lead_id": "LEAD-146",
+    "mensaje": "Solo necesitaba saber más",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 147,
+    "lead_id": "LEAD-147",
+    "mensaje": "Necesito ayuda para entender el proceso",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 39,
+    "palabras_clave": [
+      "financiamiento"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 148,
+    "lead_id": "LEAD-148",
+    "mensaje": "Me interesa participar, qué pasos necesito",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 42,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 149,
+    "lead_id": "LEAD-149",
+    "mensaje": "Solo estoy revisando los lotes",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 30,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 150,
+    "lead_id": "LEAD-150",
+    "mensaje": "Puedo ofertar desde el celular?",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 31,
+    "palabras_clave": [
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 151,
+    "lead_id": "LEAD-151",
+    "mensaje": "He enviado el proceso de la garantía",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [
+      "garantía",
+      "resultado",
+      "plataforma"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 152,
+    "lead_id": "LEAD-152",
+    "mensaje": "Solo estoy consultando 75",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 153,
+    "lead_id": "LEAD-153",
+    "mensaje": "Ya realicé el depósito de garantía completo",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 43,
+    "palabras_clave": [
+      "garantía",
+      "depósito"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 154,
+    "lead_id": "LEAD-154",
+    "mensaje": "Todavía no tengo claro",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 22,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 155,
+    "lead_id": "LEAD-155",
+    "mensaje": "Estoy interesado en ofertar por el vehículo",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 43,
+    "palabras_clave": [
+      "ofertar",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 156,
+    "lead_id": "LEAD-156",
+    "mensaje": "Necesito ayuda para participar",
+    "sentimiento": "positivo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 30,
+    "palabras_clave": [
+      "participar",
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 157,
+    "lead_id": "LEAD-157",
+    "mensaje": "Cómo funciona el registro para la subasta?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 42,
+    "palabras_clave": [
+      "subasta",
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 158,
+    "lead_id": "LEAD-158",
+    "mensaje": "Solo estoy consultando 44",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 159,
+    "lead_id": "LEAD-159",
+    "mensaje": "Qué garantías tienen los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 31,
+    "palabras_clave": [
+      "garantía"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 160,
+    "lead_id": "LEAD-160",
+    "mensaje": "Solo viendo los lotes",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 161,
+    "lead_id": "LEAD-161",
+    "mensaje": "Ya pagué, ¿pueden darme acceso a la plataforma?",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 47,
+    "palabras_clave": [
+      "plataforma",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 162,
+    "lead_id": "LEAD-162",
+    "mensaje": "Solo estoy viendo opciones.",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 27,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 163,
+    "lead_id": "LEAD-163",
+    "mensaje": "¿Cuál es el costo?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 18,
+    "palabras_clave": [
+      "precio"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 164,
+    "lead_id": "LEAD-164",
+    "mensaje": "Ya hice el garantía, confirmen",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 30,
+    "palabras_clave": [
+      "garantía",
+      "lote"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 165,
+    "lead_id": "LEAD-165",
+    "mensaje": "Estoy viendo opciones",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 166,
+    "lead_id": "LEAD-166",
+    "mensaje": "Confirmen mi registro para la subasta de equipos",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 48,
+    "palabras_clave": [
+      "subasta",
+      "registro",
+      "transferencia"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 167,
+    "lead_id": "LEAD-167",
+    "mensaje": "Solo estoy revisando 54",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 168,
+    "lead_id": "LEAD-168",
+    "mensaje": "Estoy viendo información",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 169,
+    "lead_id": "LEAD-169",
+    "mensaje": "Confirmen mi registro",
+    "sentimiento": "positivo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [
+      "registro",
+      "plataforma",
+      "comprobante"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 170,
+    "lead_id": "LEAD-170",
+    "mensaje": "Qué precio tienen los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 28,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 171,
+    "lead_id": "LEAD-171",
+    "mensaje": "Cuál es el procedimiento después de ganar?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 42,
+    "palabras_clave": [
+      "confirmar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 172,
+    "lead_id": "LEAD-172",
+    "mensaje": "Solo estoy revisando información.",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 33,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 173,
+    "lead_id": "LEAD-173",
+    "mensaje": "Confirmen mi registro para la subasta de camiones",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 49,
+    "palabras_clave": [
+      "subasta",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 174,
+    "lead_id": "LEAD-174",
+    "mensaje": "Necesito información sobre el proceso de pago",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "pago",
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 175,
+    "lead_id": "LEAD-175",
+    "mensaje": "Estoy listo para participar en la subasta de equipos",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 52,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 176,
+    "lead_id": "LEAD-176",
+    "mensaje": "Solo estoy viendo opciones",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 177,
+    "lead_id": "LEAD-177",
+    "mensaje": "Necesito confirmación urgente de mi registro",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "registro",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 178,
+    "lead_id": "LEAD-178",
+    "mensaje": "Quiero participar en la subasta de camiones",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 43,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 179,
+    "lead_id": "LEAD-179",
+    "mensaje": "Aún no estoy convencido",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 180,
+    "lead_id": "LEAD-180",
+    "mensaje": "He realizado el pago, ¿pueden confirmar mi registro?",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 52,
+    "palabras_clave": [
+      "pago",
+      "confirmar",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 181,
+    "lead_id": "LEAD-181",
+    "mensaje": "He realizado el pago, pueden confirmar mi registro?",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 51,
+    "palabras_clave": [
+      "pago",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 182,
+    "lead_id": "LEAD-182",
+    "mensaje": "Me interesa participar, ¿qué pasos sigo?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "participar",
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 183,
+    "lead_id": "LEAD-183",
+    "mensaje": "Estoy listo para ofertar en esta subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 40,
+    "palabras_clave": [
+      "subasta",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 184,
+    "lead_id": "LEAD-184",
+    "mensaje": "Estoy listo para participar en la subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 41,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "resultado"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 185,
+    "lead_id": "LEAD-185",
+    "mensaje": "Tal vez más adelante.",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 186,
+    "lead_id": "LEAD-186",
+    "mensaje": "Quiero participar en la subasta de equipos",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 42,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 187,
+    "lead_id": "LEAD-187",
+    "mensaje": "Puedo ver los resultados de subastas anteriores?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 48,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 188,
+    "lead_id": "LEAD-188",
+    "mensaje": "Necesito más detalles sobre los lotes",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 37,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 189,
+    "lead_id": "LEAD-189",
+    "mensaje": "Puedo hacer preguntas antes de participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 42,
+    "palabras_clave": [
+      "participar",
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 190,
+    "lead_id": "LEAD-190",
+    "mensaje": "Estoy interesado en participar en la subasta de vehículos",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 57,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "resultado"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 191,
+    "lead_id": "LEAD-191",
+    "mensaje": "Estoy pensándolo todavía",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 192,
+    "lead_id": "LEAD-192",
+    "mensaje": "Solo estaba revisando 33",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 193,
+    "lead_id": "LEAD-193",
+    "mensaje": "Estoy interesado en ofertar por el equipo",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 41,
+    "palabras_clave": [
+      "ofertar",
+      "voucher"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 194,
+    "lead_id": "LEAD-194",
+    "mensaje": "He enviado todos los requisitos necesarios",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 42,
+    "palabras_clave": [
+      "voucher",
+      "depósito",
+      "precio"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 195,
+    "lead_id": "LEAD-195",
+    "mensaje": "Cómo funciona el sistema de ofertas?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 36,
+    "palabras_clave": [
+      "plataforma"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 196,
+    "lead_id": "LEAD-196",
+    "mensaje": "Solo viendo opciones",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 20,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 197,
+    "lead_id": "LEAD-197",
+    "mensaje": "¿Hay algún requisito especial para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 46,
+    "palabras_clave": [
+      "participar",
+      "asesor"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 198,
+    "lead_id": "LEAD-198",
+    "mensaje": "Solo estoy revisando 47",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 199,
+    "lead_id": "LEAD-199",
+    "mensaje": "Cómo se realiza el pago de la garantía?",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 39,
+    "palabras_clave": [
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 200,
+    "lead_id": "LEAD-200",
+    "mensaje": "Quiero participar en la subasta de bienes corporativos",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 54,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 201,
+    "lead_id": "LEAD-201",
+    "mensaje": "¿Puedo ver información detallada de los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 46,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 202,
+    "lead_id": "LEAD-202",
+    "mensaje": "Estoy viendo mis opciones",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 203,
+    "lead_id": "LEAD-203",
+    "mensaje": "¿Puedo hacer una visita previa a los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 43,
+    "palabras_clave": [
+      "lote",
+      "visita"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 204,
+    "lead_id": "LEAD-204",
+    "mensaje": "Solo estoy consultando 56",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 205,
+    "lead_id": "LEAD-205",
+    "mensaje": "Necesito confirmación de mi participación urgente",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 49,
+    "palabras_clave": [
+      "registro",
+      "lote"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 206,
+    "lead_id": "LEAD-206",
+    "mensaje": "Ya realicé el transferencia, confirmen por favor",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 48,
+    "palabras_clave": [
+      "transferencia",
+      "comprobante",
+      "subasta"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 207,
+    "lead_id": "LEAD-207",
+    "mensaje": "Necesito información sobre la garantía",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 38,
+    "palabras_clave": [
+      "garantía"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 208,
+    "lead_id": "LEAD-208",
+    "mensaje": "Confirmen mi participación en la subasta de equipos",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 51,
+    "palabras_clave": [
+      "subasta",
+      "garantía",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 209,
+    "lead_id": "LEAD-209",
+    "mensaje": "¿Cómo funciona el sistema de ofertas?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 37,
+    "palabras_clave": [
+      "pago",
+      "depósito"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 210,
+    "lead_id": "LEAD-210",
+    "mensaje": "¿Cómo funciona el proceso?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 26,
+    "palabras_clave": [
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 211,
+    "lead_id": "LEAD-211",
+    "mensaje": "Estoy revisando si me conviene.",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 31,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 212,
+    "lead_id": "LEAD-212",
+    "mensaje": "Me interesa, pueden darme más detalles?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 39,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 213,
+    "lead_id": "LEAD-213",
+    "mensaje": "¿Cuál es el horario?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 20,
+    "palabras_clave": [
+      "confirmar",
+      "transferencia"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 214,
+    "lead_id": "LEAD-214",
+    "mensaje": "No estoy seguro todavía",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 215,
+    "lead_id": "LEAD-215",
+    "mensaje": "Confirmen mi pago",
+    "sentimiento": "positivo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 17,
+    "palabras_clave": [
+      "pago",
+      "resultado",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 216,
+    "lead_id": "LEAD-216",
+    "mensaje": "Tal vez después",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 15,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 217,
+    "lead_id": "LEAD-217",
+    "mensaje": "Me interesa participar, qué información necesitan?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 50,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 218,
+    "lead_id": "LEAD-218",
+    "mensaje": "Solo estaba consultando 76",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 219,
+    "lead_id": "LEAD-219",
+    "mensaje": "¿Qué información necesito?",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 1,
+    "longitud": 26,
+    "palabras_clave": [
+      "depósito"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 220,
+    "lead_id": "LEAD-220",
+    "mensaje": "Solo estoy viendo qué hay",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 221,
+    "lead_id": "LEAD-221",
+    "mensaje": "¿Qué es el horario?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 19,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 222,
+    "lead_id": "LEAD-222",
+    "mensaje": "Necesito más detalles sobre el registro",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 39,
+    "palabras_clave": [
+      "registro",
+      "resultado"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 223,
+    "lead_id": "LEAD-223",
+    "mensaje": "¿Puedo ver los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 21,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 224,
+    "lead_id": "LEAD-224",
+    "mensaje": "Solo necesitaba consultar",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 225,
+    "lead_id": "LEAD-225",
+    "mensaje": "He completado el registro y el depósito, ¿pueden confirmar?",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 1,
+    "longitud": 59,
+    "palabras_clave": [
+      "depósito",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 226,
+    "lead_id": "LEAD-226",
+    "mensaje": "He completado todos los documentos necesarios.",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 46,
+    "palabras_clave": [
+      "pago",
+      "plataforma",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 227,
+    "lead_id": "LEAD-227",
+    "mensaje": "Confirmen mi participación en la subasta de bienes corporativos",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 63,
+    "palabras_clave": [
+      "subasta",
+      "pago"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 228,
+    "lead_id": "LEAD-228",
+    "mensaje": "Me interesa participar, ¿qué pasos necesito?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 44,
+    "palabras_clave": [
+      "participar",
+      "depósito"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 229,
+    "lead_id": "LEAD-229",
+    "mensaje": "Confirmen que recibieron mi transferencia bancaria",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 50,
+    "palabras_clave": [
+      "transferencia",
+      "voucher",
+      "subasta"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 230,
+    "lead_id": "LEAD-230",
+    "mensaje": "Necesito información sobre el proceso",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 37,
+    "palabras_clave": [
+      "precio",
+      "confirmar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 231,
+    "lead_id": "LEAD-231",
+    "mensaje": "Me interesa participar, ¿qué debo hacer?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 232,
+    "lead_id": "LEAD-232",
+    "mensaje": "Me interesa, pueden enviarme más información?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 45,
+    "palabras_clave": [
+      "confirmar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 233,
+    "lead_id": "LEAD-233",
+    "mensaje": "¿Cuándo puedo participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 3,
+    "num_preguntas": 1,
+    "longitud": 25,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 234,
+    "lead_id": "LEAD-234",
+    "mensaje": "Necesito el acceso a la plataforma para participar",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 50,
+    "palabras_clave": [
+      "participar",
+      "plataforma"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 235,
+    "lead_id": "LEAD-235",
+    "mensaje": "Solo estaba consultando 67",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 236,
+    "lead_id": "LEAD-236",
+    "mensaje": "Estoy revisando qué hay disponible",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 34,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 237,
+    "lead_id": "LEAD-237",
+    "mensaje": "He enviado el garantía de la garantía",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 37,
+    "palabras_clave": [
+      "garantía",
+      "asesor",
+      "resultado"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 238,
+    "lead_id": "LEAD-238",
+    "mensaje": "Estoy listo para ofertar en el lote número 35",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "lote",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 239,
+    "lead_id": "LEAD-239",
+    "mensaje": "Solo estaba consultando 39",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 240,
+    "lead_id": "LEAD-240",
+    "mensaje": "Estoy interesado en participar en la subasta de maquinaria",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 58,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 241,
+    "lead_id": "LEAD-241",
+    "mensaje": "¿Cuál es el procedimiento después de ganar?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 43,
+    "palabras_clave": [
+      "resultado",
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 242,
+    "lead_id": "LEAD-242",
+    "mensaje": "Solo estoy revisando 51",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 243,
+    "lead_id": "LEAD-243",
+    "mensaje": "¿Cómo funciona la plataforma de subasta?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 244,
+    "lead_id": "LEAD-244",
+    "mensaje": "¿Cuánto tiempo tengo para hacer el pago?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "pago",
+      "comprobante"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 245,
+    "lead_id": "LEAD-245",
+    "mensaje": "Ya completé el pago, por favor confirmen",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 40,
+    "palabras_clave": [
+      "pago",
+      "plataforma"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 246,
+    "lead_id": "LEAD-246",
+    "mensaje": "Quisiera conocer más sobre el proceso",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 37,
+    "palabras_clave": [
+      "financiamiento"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 247,
+    "lead_id": "LEAD-247",
+    "mensaje": "Ya realicé el depósito, confirmen",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 33,
+    "palabras_clave": [
+      "depósito",
+      "lote",
+      "plataforma"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 248,
+    "lead_id": "LEAD-248",
+    "mensaje": "Ya pagué la garantía, puedo participar ahora?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 45,
+    "palabras_clave": [
+      "garantía",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 249,
+    "lead_id": "LEAD-249",
+    "mensaje": "Necesito confirmación de mi pago",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 32,
+    "palabras_clave": [
+      "pago",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 250,
+    "lead_id": "LEAD-250",
+    "mensaje": "Me interesa conocer",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 19,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 251,
+    "lead_id": "LEAD-251",
+    "mensaje": "Todavía estoy pensándolo.",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 252,
+    "lead_id": "LEAD-252",
+    "mensaje": "Puedo consultar con un asesor antes?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 36,
+    "palabras_clave": [
+      "asesor",
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 253,
+    "lead_id": "LEAD-253",
+    "mensaje": "Qué garantías necesito para participar",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 38,
+    "palabras_clave": [
+      "garantía",
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 254,
+    "lead_id": "LEAD-254",
+    "mensaje": "¿Dónde puedo registrarme?",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 1,
+    "longitud": 25,
+    "palabras_clave": [
+      "precio",
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 255,
+    "lead_id": "LEAD-255",
+    "mensaje": "Me interesa participar, ¿qué documentos necesito?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 49,
+    "palabras_clave": [
+      "participar",
+      "comprobante"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 256,
+    "lead_id": "LEAD-256",
+    "mensaje": "Ya completé el garantía, por favor confirmen",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "garantía",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 257,
+    "lead_id": "LEAD-257",
+    "mensaje": "Solo quería saber de qué se trata",
+    "sentimiento": "negativo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 33,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 258,
+    "lead_id": "LEAD-258",
+    "mensaje": "Todavía no lo tengo claro",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 259,
+    "lead_id": "LEAD-259",
+    "mensaje": "Puedo hablar con un asesor?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 27,
+    "palabras_clave": [
+      "asesor"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 260,
+    "lead_id": "LEAD-260",
+    "mensaje": "¿Cuál es el proceso completo de participación?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 46,
+    "palabras_clave": [
+      "subasta",
+      "comprobante"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 261,
+    "lead_id": "LEAD-261",
+    "mensaje": "Quiero participar en la subasta de vehículos",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "depósito"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 262,
+    "lead_id": "LEAD-262",
+    "mensaje": "Solo estaba revisando 60",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 263,
+    "lead_id": "LEAD-263",
+    "mensaje": "Estoy interesado en ofertar por el lote",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 39,
+    "palabras_clave": [
+      "lote",
+      "ofertar",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 264,
+    "lead_id": "LEAD-264",
+    "mensaje": "Solo estaba curioseando.",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 265,
+    "lead_id": "LEAD-265",
+    "mensaje": "Necesito confirmación de mi registro",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [
+      "registro",
+      "confirmar",
+      "pago"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 266,
+    "lead_id": "LEAD-266",
+    "mensaje": "Ya realicé el registro, por favor confirmen",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 43,
+    "palabras_clave": [
+      "registro",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 267,
+    "lead_id": "LEAD-267",
+    "mensaje": "Me interesa, ¿pueden darme más detalles?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 268,
+    "lead_id": "LEAD-268",
+    "mensaje": "¿Cuándo es el monto?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 20,
+    "palabras_clave": [
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 269,
+    "lead_id": "LEAD-269",
+    "mensaje": "Cómo puedo obtener acceso a la plataforma?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 42,
+    "palabras_clave": [
+      "plataforma",
+      "asesor"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 270,
+    "lead_id": "LEAD-270",
+    "mensaje": "Solo estaba curioseando",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 271,
+    "lead_id": "LEAD-271",
+    "mensaje": "Solo quería conocer más detalles",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 32,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 272,
+    "lead_id": "LEAD-272",
+    "mensaje": "He completado el transferencia de la garantía",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "garantía",
+      "transferencia"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 273,
+    "lead_id": "LEAD-273",
+    "mensaje": "Estoy listo para ofertar en la subasta de hoy",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "subasta",
+      "ofertar",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 274,
+    "lead_id": "LEAD-274",
+    "mensaje": "¿Cuál es el proceso completo?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 29,
+    "palabras_clave": [
+      "precio",
+      "financiamiento"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 275,
+    "lead_id": "LEAD-275",
+    "mensaje": "Cómo funciona el sistema de depósito?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 37,
+    "palabras_clave": [
+      "depósito",
+      "plataforma"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 276,
+    "lead_id": "LEAD-276",
+    "mensaje": "Todavía no estoy decidido.",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 277,
+    "lead_id": "LEAD-277",
+    "mensaje": "Quiero participar en la subasta, ya pagué todo",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 46,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 278,
+    "lead_id": "LEAD-278",
+    "mensaje": "¿Cómo es el costo?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 18,
+    "palabras_clave": [
+      "precio",
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 279,
+    "lead_id": "LEAD-279",
+    "mensaje": "Cómo funciona el proceso de pago?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 33,
+    "palabras_clave": [
+      "pago",
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 280,
+    "lead_id": "LEAD-280",
+    "mensaje": "Necesito el acceso a la plataforma para ofertar",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 47,
+    "palabras_clave": [
+      "ofertar",
+      "plataforma"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 281,
+    "lead_id": "LEAD-281",
+    "mensaje": "¿Puedo ver los resultados de subastas anteriores?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 49,
+    "palabras_clave": [
+      "subasta",
+      "resultado"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 282,
+    "lead_id": "LEAD-282",
+    "mensaje": "He completado todos los requisitos, ¿puedo participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 54,
+    "palabras_clave": [
+      "participar",
+      "depósito",
+      "pago"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 283,
+    "lead_id": "LEAD-283",
+    "mensaje": "Aún estoy pensándolo.",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 284,
+    "lead_id": "LEAD-284",
+    "mensaje": "He enviado el registro de la garantía",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 37,
+    "palabras_clave": [
+      "garantía",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 285,
+    "lead_id": "LEAD-285",
+    "mensaje": "Aún estoy pensando",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 18,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 286,
+    "lead_id": "LEAD-286",
+    "mensaje": "Solo estoy curioseando",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 22,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 287,
+    "lead_id": "LEAD-287",
+    "mensaje": "Solo quería saber de qué se trata.",
+    "sentimiento": "negativo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 34,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 288,
+    "lead_id": "LEAD-288",
+    "mensaje": "Solo estoy revisando información general.",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 41,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 289,
+    "lead_id": "LEAD-289",
+    "mensaje": "Estoy listo para ofertar en el lote número 4",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "lote",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 290,
+    "lead_id": "LEAD-290",
+    "mensaje": "Estoy interesado en ofertar por el bien",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 39,
+    "palabras_clave": [
+      "ofertar",
+      "resultado"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 291,
+    "lead_id": "LEAD-291",
+    "mensaje": "¿Dónde puedo participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 3,
+    "num_preguntas": 1,
+    "longitud": 24,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 292,
+    "lead_id": "LEAD-292",
+    "mensaje": "Qué garantía necesito para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 38,
+    "palabras_clave": [
+      "garantía",
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 293,
+    "lead_id": "LEAD-293",
+    "mensaje": "Solo estaba consultando 40",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 294,
+    "lead_id": "LEAD-294",
+    "mensaje": "Necesito saber más sobre el proceso completo",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 295,
+    "lead_id": "LEAD-295",
+    "mensaje": "Solo estoy informándome sobre el proceso",
+    "sentimiento": "negativo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 40,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 296,
+    "lead_id": "LEAD-296",
+    "mensaje": "Estoy listo para ofertar en el lote número 23",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "lote",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 297,
+    "lead_id": "LEAD-297",
+    "mensaje": "He completado el garantía de la garantía",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 40,
+    "palabras_clave": [
+      "garantía",
+      "pago"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 298,
+    "lead_id": "LEAD-298",
+    "mensaje": "Cuál es el horario de la subasta?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 33,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 299,
+    "lead_id": "LEAD-299",
+    "mensaje": "He completado el proceso de la garantía",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 39,
+    "palabras_clave": [
+      "garantía",
+      "resultado",
+      "lote"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 300,
+    "lead_id": "LEAD-300",
+    "mensaje": "Ya hice el pago de la garantía, confirmen por favor",
+    "sentimiento": "positivo",
+    "num_palabras": 10,
+    "num_preguntas": 0,
+    "longitud": 51,
+    "palabras_clave": [
+      "pago",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 301,
+    "lead_id": "LEAD-301",
+    "mensaje": "Confirmen mi registro para la subasta de maquinaria",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 51,
+    "palabras_clave": [
+      "subasta",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 302,
+    "lead_id": "LEAD-302",
+    "mensaje": "Ya realicé el garantía, confirmen por favor",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 43,
+    "palabras_clave": [
+      "garantía",
+      "precio",
+      "subasta"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 303,
+    "lead_id": "LEAD-303",
+    "mensaje": "Aún no tengo claro si participo.",
+    "sentimiento": "negativo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 32,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 304,
+    "lead_id": "LEAD-304",
+    "mensaje": "Solo consultando información general",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 305,
+    "lead_id": "LEAD-305",
+    "mensaje": "Solo estaba revisando 52",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 306,
+    "lead_id": "LEAD-306",
+    "mensaje": "Estoy pensándolo",
+    "sentimiento": "neutro",
+    "num_palabras": 2,
+    "num_preguntas": 0,
+    "longitud": 16,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 307,
+    "lead_id": "LEAD-307",
+    "mensaje": "Estoy explorando las opciones",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 29,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 308,
+    "lead_id": "LEAD-308",
+    "mensaje": "Ya completé el pago de la garantía.",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 35,
+    "palabras_clave": [
+      "pago",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 309,
+    "lead_id": "LEAD-309",
+    "mensaje": "Me interesa participar, qué requisitos necesito",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 47,
+    "palabras_clave": [
+      "participar",
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 310,
+    "lead_id": "LEAD-310",
+    "mensaje": "Solo necesitaba saber de qué se trata.",
+    "sentimiento": "negativo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 38,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 311,
+    "lead_id": "LEAD-311",
+    "mensaje": "Confirmen por favor mi registro en la plataforma",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 48,
+    "palabras_clave": [
+      "registro",
+      "plataforma"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 312,
+    "lead_id": "LEAD-312",
+    "mensaje": "Aún no lo tengo claro.",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 22,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 313,
+    "lead_id": "LEAD-313",
+    "mensaje": "He completado el proceso de registro",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [
+      "registro",
+      "participar",
+      "depósito"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 314,
+    "lead_id": "LEAD-314",
+    "mensaje": "Estoy investigando las opciones",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 31,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 315,
+    "lead_id": "LEAD-315",
+    "mensaje": "Solo estaba revisando 65",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 316,
+    "lead_id": "LEAD-316",
+    "mensaje": "Confirmen mi registro para la subasta de bienes corporativos",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 60,
+    "palabras_clave": [
+      "subasta",
+      "registro",
+      "voucher"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 317,
+    "lead_id": "LEAD-317",
+    "mensaje": "Solo estoy revisando 49",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 318,
+    "lead_id": "LEAD-318",
+    "mensaje": "Tal vez en otra ocasión",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 319,
+    "lead_id": "LEAD-319",
+    "mensaje": "Solo estaba revisando 70",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 320,
+    "lead_id": "LEAD-320",
+    "mensaje": "He enviado todos los comprobantes necesarios",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "comprobante",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 321,
+    "lead_id": "LEAD-321",
+    "mensaje": "Estoy interesado en ofertar por el equipo",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 41,
+    "palabras_clave": [
+      "ofertar",
+      "confirmar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 322,
+    "lead_id": "LEAD-322",
+    "mensaje": "¿Hay opciones de financiamiento disponibles?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 44,
+    "palabras_clave": [
+      "financiamiento"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 323,
+    "lead_id": "LEAD-323",
+    "mensaje": "Aún no lo tengo claro",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 324,
+    "lead_id": "LEAD-324",
+    "mensaje": "Tal vez en otra oportunidad",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 27,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 325,
+    "lead_id": "LEAD-325",
+    "mensaje": "Necesito confirmar mi participación en la subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 49,
+    "palabras_clave": [
+      "confirmar",
+      "subasta",
+      "financiamiento"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 326,
+    "lead_id": "LEAD-326",
+    "mensaje": "Ya realicé el transferencia, confirmen",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 38,
+    "palabras_clave": [
+      "transferencia",
+      "participar",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 327,
+    "lead_id": "LEAD-327",
+    "mensaje": "Estoy viendo qué hay disponible.",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 32,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 328,
+    "lead_id": "LEAD-328",
+    "mensaje": "Necesito entender mejor cómo funciona todo",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 42,
+    "palabras_clave": [
+      "resultado"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 329,
+    "lead_id": "LEAD-329",
+    "mensaje": "Confirmen mi registro para la subasta de automóviles",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 52,
+    "palabras_clave": [
+      "subasta",
+      "registro",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 330,
+    "lead_id": "LEAD-330",
+    "mensaje": "Cuál es el monto mínimo de depósito?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 36,
+    "palabras_clave": [
+      "depósito"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 331,
+    "lead_id": "LEAD-331",
+    "mensaje": "Necesito saber más sobre los lotes",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 34,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 332,
+    "lead_id": "LEAD-332",
+    "mensaje": "Ya completé el proceso de registro y pago",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 41,
+    "palabras_clave": [
+      "pago",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 333,
+    "lead_id": "LEAD-333",
+    "mensaje": "Tal vez después lo considero.",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 29,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 334,
+    "lead_id": "LEAD-334",
+    "mensaje": "Quiero participar activamente en la subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 43,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 335,
+    "lead_id": "LEAD-335",
+    "mensaje": "Necesito más detalles sobre la participación",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "visita"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 336,
+    "lead_id": "LEAD-336",
+    "mensaje": "Solo consultando qué hay",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 337,
+    "lead_id": "LEAD-337",
+    "mensaje": "Estoy listo para participar en la subasta de camiones",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 53,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 338,
+    "lead_id": "LEAD-338",
+    "mensaje": "¿Puedo ofertar por varios lotes a la vez?",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 41,
+    "palabras_clave": [
+      "lote",
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 339,
+    "lead_id": "LEAD-339",
+    "mensaje": "Todavía no estoy seguro",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 340,
+    "lead_id": "LEAD-340",
+    "mensaje": "Necesito el voucher de participación para la subasta",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 52,
+    "palabras_clave": [
+      "voucher",
+      "subasta"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 341,
+    "lead_id": "LEAD-341",
+    "mensaje": "Ya envié el registro, confirmen",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 31,
+    "palabras_clave": [
+      "registro",
+      "lote",
+      "subasta"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 342,
+    "lead_id": "LEAD-342",
+    "mensaje": "Solo consultando información",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 28,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 343,
+    "lead_id": "LEAD-343",
+    "mensaje": "Estoy interesado en participar en la subasta de camiones",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 56,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "voucher"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 344,
+    "lead_id": "LEAD-344",
+    "mensaje": "No tengo certeza todavía",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 345,
+    "lead_id": "LEAD-345",
+    "mensaje": "¿Puedo ofertar desde el celular?",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 32,
+    "palabras_clave": [
+      "ofertar",
+      "visita"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 346,
+    "lead_id": "LEAD-346",
+    "mensaje": "¿Cuál es el horario de la subasta?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 34,
+    "palabras_clave": [
+      "subasta",
+      "financiamiento"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 347,
+    "lead_id": "LEAD-347",
+    "mensaje": "Estoy listo para ofertar en el lote número 10",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "lote",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 348,
+    "lead_id": "LEAD-348",
+    "mensaje": "Solo estaba consultando 17",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 349,
+    "lead_id": "LEAD-349",
+    "mensaje": "¿Puedo revisar los detalles?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 28,
+    "palabras_clave": [
+      "garantía",
+      "precio"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 350,
+    "lead_id": "LEAD-350",
+    "mensaje": "Solo estoy revisando 29",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 351,
+    "lead_id": "LEAD-351",
+    "mensaje": "Me interesa, pero necesito más información",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 42,
+    "palabras_clave": [
+      "registro",
+      "transferencia"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 352,
+    "lead_id": "LEAD-352",
+    "mensaje": "Estoy considerando.",
+    "sentimiento": "neutro",
+    "num_palabras": 2,
+    "num_preguntas": 0,
+    "longitud": 19,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 353,
+    "lead_id": "LEAD-353",
+    "mensaje": "¿Puedo acceder a más información?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 33,
+    "palabras_clave": [
+      "voucher"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 354,
+    "lead_id": "LEAD-354",
+    "mensaje": "Puedo ofertar por varios lotes a la vez?",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "lote",
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 355,
+    "lead_id": "LEAD-355",
+    "mensaje": "Solo consultando precios",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 356,
+    "lead_id": "LEAD-356",
+    "mensaje": "Ya completé el pago de la garantía",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 34,
+    "palabras_clave": [
+      "pago",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 357,
+    "lead_id": "LEAD-357",
+    "mensaje": "Aún lo estoy pensando",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 21,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 358,
+    "lead_id": "LEAD-358",
+    "mensaje": "He completado todos los requisitos necesarios",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "transferencia",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 359,
+    "lead_id": "LEAD-359",
+    "mensaje": "¿Cuándo es el proceso?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 22,
+    "palabras_clave": [
+      "visita"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 360,
+    "lead_id": "LEAD-360",
+    "mensaje": "Ya realicé la garantía",
+    "sentimiento": "positivo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 22,
+    "palabras_clave": [
+      "garantía",
+      "subasta",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 361,
+    "lead_id": "LEAD-361",
+    "mensaje": "Solo estoy revisando opciones",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 29,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 362,
+    "lead_id": "LEAD-362",
+    "mensaje": "Cómo se confirma la participación?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 34,
+    "palabras_clave": [
+      "comprobante",
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 363,
+    "lead_id": "LEAD-363",
+    "mensaje": "¿Cuál es el costo para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 34,
+    "palabras_clave": [
+      "participar",
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 364,
+    "lead_id": "LEAD-364",
+    "mensaje": "Necesito información sobre el registro",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 38,
+    "palabras_clave": [
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 365,
+    "lead_id": "LEAD-365",
+    "mensaje": "¿Cuándo es el precio?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 21,
+    "palabras_clave": [
+      "precio"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 366,
+    "lead_id": "LEAD-366",
+    "mensaje": "Estoy viendo mis opciones.",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 367,
+    "lead_id": "LEAD-367",
+    "mensaje": "Necesito información sobre la participación",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 43,
+    "palabras_clave": [
+      "resultado"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 368,
+    "lead_id": "LEAD-368",
+    "mensaje": "Todavía no lo tengo claro.",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 369,
+    "lead_id": "LEAD-369",
+    "mensaje": "¿Qué requisitos necesito?",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 1,
+    "longitud": 25,
+    "palabras_clave": [
+      "voucher"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 370,
+    "lead_id": "LEAD-370",
+    "mensaje": "Hay algún requisito especial para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 45,
+    "palabras_clave": [
+      "participar",
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 371,
+    "lead_id": "LEAD-371",
+    "mensaje": "Ya hice el pago, confirmen por favor",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [
+      "pago",
+      "ofertar",
+      "depósito"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 372,
+    "lead_id": "LEAD-372",
+    "mensaje": "¿Cómo puedo acceder?",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 1,
+    "longitud": 20,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 373,
+    "lead_id": "LEAD-373",
+    "mensaje": "Solo estaba revisando información",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 33,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 374,
+    "lead_id": "LEAD-374",
+    "mensaje": "He enviado el depósito, espero confirmación",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 43,
+    "palabras_clave": [
+      "depósito",
+      "visita",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 375,
+    "lead_id": "LEAD-375",
+    "mensaje": "He enviado el comprobante, espero confirmación",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 46,
+    "palabras_clave": [
+      "comprobante",
+      "subasta"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 376,
+    "lead_id": "LEAD-376",
+    "mensaje": "He completado el registro de la garantía",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 40,
+    "palabras_clave": [
+      "garantía",
+      "registro",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 377,
+    "lead_id": "LEAD-377",
+    "mensaje": "No tengo decidido todavía",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 378,
+    "lead_id": "LEAD-378",
+    "mensaje": "Necesito acceso inmediato a la subasta",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 38,
+    "palabras_clave": [
+      "subasta",
+      "lote"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 379,
+    "lead_id": "LEAD-379",
+    "mensaje": "Solo estoy consultando 22",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 380,
+    "lead_id": "LEAD-380",
+    "mensaje": "¿Cuándo puedo registrarme?",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 1,
+    "longitud": 26,
+    "palabras_clave": [
+      "asesor"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 381,
+    "lead_id": "LEAD-381",
+    "mensaje": "Estoy explorando posibilidades",
+    "sentimiento": "neutro",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 30,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 382,
+    "lead_id": "LEAD-382",
+    "mensaje": "¿Puedo ver la plataforma?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 25,
+    "palabras_clave": [
+      "plataforma",
+      "voucher"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 383,
+    "lead_id": "LEAD-383",
+    "mensaje": "Solo consultando",
+    "sentimiento": "negativo",
+    "num_palabras": 2,
+    "num_preguntas": 0,
+    "longitud": 16,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 384,
+    "lead_id": "LEAD-384",
+    "mensaje": "Ya realicé el garantía, confirmen",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 33,
+    "palabras_clave": [
+      "garantía",
+      "lote",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 385,
+    "lead_id": "LEAD-385",
+    "mensaje": "Estoy revisando si me conviene",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 30,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 386,
+    "lead_id": "LEAD-386",
+    "mensaje": "Solo consultando opciones",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 387,
+    "lead_id": "LEAD-387",
+    "mensaje": "Necesito confirmación de mi depósito",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [
+      "depósito",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 388,
+    "lead_id": "LEAD-388",
+    "mensaje": "Me interesa participar, qué pasos sigo?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 39,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 389,
+    "lead_id": "LEAD-389",
+    "mensaje": "Solo estoy revisando 55",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 390,
+    "lead_id": "LEAD-390",
+    "mensaje": "Estoy interesado en participar en la subasta de automóviles",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 59,
+    "palabras_clave": [
+      "subasta",
+      "participar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 391,
+    "lead_id": "LEAD-391",
+    "mensaje": "Ya envié el comprobante de pago",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 31,
+    "palabras_clave": [
+      "pago",
+      "comprobante",
+      "transferencia"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 392,
+    "lead_id": "LEAD-392",
+    "mensaje": "He realizado el depósito inicial, ¿qué sigue?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 45,
+    "palabras_clave": [
+      "depósito",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 393,
+    "lead_id": "LEAD-393",
+    "mensaje": "Solo estoy revisando 12",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 394,
+    "lead_id": "LEAD-394",
+    "mensaje": "¿Puedo ver los lotes antes de la subasta?",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 41,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 395,
+    "lead_id": "LEAD-395",
+    "mensaje": "Ya hice el pago requerido para participar",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 41,
+    "palabras_clave": [
+      "pago",
+      "participar",
+      "asesor"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 396,
+    "lead_id": "LEAD-396",
+    "mensaje": "Quiero participar en la subasta de maquinaria",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "lote"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 397,
+    "lead_id": "LEAD-397",
+    "mensaje": "Necesito información sobre los términos y condiciones",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 53,
+    "palabras_clave": [
+      "subasta",
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 398,
+    "lead_id": "LEAD-398",
+    "mensaje": "Estoy interesado en ofertar por varios lotes",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 44,
+    "palabras_clave": [
+      "lote",
+      "ofertar",
+      "precio"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 399,
+    "lead_id": "LEAD-399",
+    "mensaje": "Confirmen que puedo participar en la subasta de hoy",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 51,
+    "palabras_clave": [
+      "subasta",
+      "participar",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 400,
+    "lead_id": "LEAD-400",
+    "mensaje": "Solo estaba revisando 58",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 24,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 401,
+    "lead_id": "LEAD-401",
+    "mensaje": "Estoy listo para ofertar, ¿cuándo empieza?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 42,
+    "palabras_clave": [
+      "ofertar",
+      "participar",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 402,
+    "lead_id": "LEAD-402",
+    "mensaje": "Solo estoy revisando información",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 32,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 403,
+    "lead_id": "LEAD-403",
+    "mensaje": "Estoy revisando mis opciones",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 28,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 404,
+    "lead_id": "LEAD-404",
+    "mensaje": "He enviado todos los documentos necesarios",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 42,
+    "palabras_clave": [
+      "garantía",
+      "transferencia",
+      "depósito"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 405,
+    "lead_id": "LEAD-405",
+    "mensaje": "Solo estaba consultando 46",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 406,
+    "lead_id": "LEAD-406",
+    "mensaje": "¿Cómo es el precio?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 19,
+    "palabras_clave": [
+      "precio"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 407,
+    "lead_id": "LEAD-407",
+    "mensaje": "Tal vez después lo considero",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 28,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 408,
+    "lead_id": "LEAD-408",
+    "mensaje": "Ya hice el depósito requerido para participar",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "depósito",
+      "participar",
+      "plataforma"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 409,
+    "lead_id": "LEAD-409",
+    "mensaje": "Necesito asesoría para participar en la subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 47,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 410,
+    "lead_id": "LEAD-410",
+    "mensaje": "Qué documentos necesito para participar?",
+    "sentimiento": "positivo",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 411,
+    "lead_id": "LEAD-411",
+    "mensaje": "Tal vez en el futuro",
+    "sentimiento": "negativo",
+    "num_palabras": 5,
+    "num_preguntas": 0,
+    "longitud": 20,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 412,
+    "lead_id": "LEAD-412",
+    "mensaje": "¿Qué es el costo total?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 23,
+    "palabras_clave": [
+      "ofertar",
+      "plataforma"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 413,
+    "lead_id": "LEAD-413",
+    "mensaje": "¿Qué medios de pago aceptan?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 28,
+    "palabras_clave": [
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 414,
+    "lead_id": "LEAD-414",
+    "mensaje": "Ya envié el comprobante de transferencia",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 40,
+    "palabras_clave": [
+      "transferencia",
+      "comprobante"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 415,
+    "lead_id": "LEAD-415",
+    "mensaje": "Puedo ofertar sin estar presente físicamente?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 45,
+    "palabras_clave": [
+      "ofertar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 416,
+    "lead_id": "LEAD-416",
+    "mensaje": "Confirmen mi participación en la subasta de maquinaria",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 0,
+    "longitud": 54,
+    "palabras_clave": [
+      "subasta",
+      "voucher"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 417,
+    "lead_id": "LEAD-417",
+    "mensaje": "He realizado la transferencia del depósito requerido",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 52,
+    "palabras_clave": [
+      "transferencia",
+      "depósito"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 418,
+    "lead_id": "LEAD-418",
+    "mensaje": "¿Cómo funciona el registro para la subasta?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 43,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 419,
+    "lead_id": "LEAD-419",
+    "mensaje": "He completado el registro, puedo participar ya?",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 47,
+    "palabras_clave": [
+      "participar",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 420,
+    "lead_id": "LEAD-420",
+    "mensaje": "Quisiera conocer más sobre los lotes",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 421,
+    "lead_id": "LEAD-421",
+    "mensaje": "Aún estoy pensándolo",
+    "sentimiento": "negativo",
+    "num_palabras": 3,
+    "num_preguntas": 0,
+    "longitud": 20,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 422,
+    "lead_id": "LEAD-422",
+    "mensaje": "¿Cómo funciona la subasta?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 26,
+    "palabras_clave": [
+      "subasta",
+      "confirmar"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 423,
+    "lead_id": "LEAD-423",
+    "mensaje": "He completado el proceso de inscripción",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 39,
+    "palabras_clave": [
+      "pago",
+      "garantía",
+      "comprobante"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 424,
+    "lead_id": "LEAD-424",
+    "mensaje": "Solo consultando los lotes",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 425,
+    "lead_id": "LEAD-425",
+    "mensaje": "Puedo consultar más detalles sobre los lotes?",
+    "sentimiento": "neutro",
+    "num_palabras": 7,
+    "num_preguntas": 1,
+    "longitud": 45,
+    "palabras_clave": [
+      "lote"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 426,
+    "lead_id": "LEAD-426",
+    "mensaje": "Necesito saber más sobre el registro",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [
+      "registro"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 427,
+    "lead_id": "LEAD-427",
+    "mensaje": "He completado el proceso de pago",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 32,
+    "palabras_clave": [
+      "pago",
+      "garantía",
+      "subasta"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 428,
+    "lead_id": "LEAD-428",
+    "mensaje": "Solo estoy revisando 42",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 23,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 429,
+    "lead_id": "LEAD-429",
+    "mensaje": "Aún no he tomado una decisión",
+    "sentimiento": "negativo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 29,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 430,
+    "lead_id": "LEAD-430",
+    "mensaje": "Quiero confirmar mi participación en la subasta",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 47,
+    "palabras_clave": [
+      "confirmar",
+      "subasta",
+      "transferencia"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 431,
+    "lead_id": "LEAD-431",
+    "mensaje": "Tal vez más adelante",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 20,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 432,
+    "lead_id": "LEAD-432",
+    "mensaje": "Qué medios de pago aceptan?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 27,
+    "palabras_clave": [
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 433,
+    "lead_id": "LEAD-433",
+    "mensaje": "Estoy evaluando",
+    "sentimiento": "neutro",
+    "num_palabras": 2,
+    "num_preguntas": 0,
+    "longitud": 15,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 434,
+    "lead_id": "LEAD-434",
+    "mensaje": "Ya pagué todo lo necesario para participar",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 42,
+    "palabras_clave": [
+      "participar",
+      "garantía",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 435,
+    "lead_id": "LEAD-435",
+    "mensaje": "¿Puedo hablar con un asesor?",
+    "sentimiento": "neutro",
+    "num_palabras": 5,
+    "num_preguntas": 1,
+    "longitud": 28,
+    "palabras_clave": [
+      "asesor"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 436,
+    "lead_id": "LEAD-436",
+    "mensaje": "Aún no estoy listo para participar",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 34,
+    "palabras_clave": [
+      "participar"
+    ],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 437,
+    "lead_id": "LEAD-437",
+    "mensaje": "Confirmen por favor que recibieron mi pago",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 42,
+    "palabras_clave": [
+      "pago",
+      "depósito"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 438,
+    "lead_id": "LEAD-438",
+    "mensaje": "Solo revisando las opciones",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 27,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 439,
+    "lead_id": "LEAD-439",
+    "mensaje": "Cómo funciona la plataforma de subasta?",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 39,
+    "palabras_clave": [
+      "subasta"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 440,
+    "lead_id": "LEAD-440",
+    "mensaje": "Me interesa participar, qué debo hacer?",
+    "sentimiento": "positivo",
+    "num_palabras": 6,
+    "num_preguntas": 1,
+    "longitud": 39,
+    "palabras_clave": [
+      "participar",
+      "financiamiento"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 441,
+    "lead_id": "LEAD-441",
+    "mensaje": "Solo estaba consultando 73",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 26,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 442,
+    "lead_id": "LEAD-442",
+    "mensaje": "Necesito confirmación urgente de mi pago",
+    "sentimiento": "neutro",
+    "num_palabras": 6,
+    "num_preguntas": 0,
+    "longitud": 40,
+    "palabras_clave": [
+      "pago",
+      "subasta"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 443,
+    "lead_id": "LEAD-443",
+    "mensaje": "Estoy listo para ofertar en el lote número 47",
+    "sentimiento": "positivo",
+    "num_palabras": 9,
+    "num_preguntas": 0,
+    "longitud": 45,
+    "palabras_clave": [
+      "lote",
+      "ofertar"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 444,
+    "lead_id": "LEAD-444",
+    "mensaje": "He completado el pago de la garantía",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 36,
+    "palabras_clave": [
+      "pago",
+      "garantía"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 445,
+    "lead_id": "LEAD-445",
+    "mensaje": "Ya pagué, pueden darme acceso a la plataforma?",
+    "sentimiento": "positivo",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 46,
+    "palabras_clave": [
+      "plataforma",
+      "visita"
+    ],
+    "label_intencion": "alta"
+  },
+  {
+    "message_id": 446,
+    "lead_id": "LEAD-446",
+    "mensaje": "¿Cómo se realiza el pago de la garantía?",
+    "sentimiento": "neutro",
+    "num_palabras": 8,
+    "num_preguntas": 1,
+    "longitud": 40,
+    "palabras_clave": [
+      "pago"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 447,
+    "lead_id": "LEAD-447",
+    "mensaje": "Todavía no estoy decidido",
+    "sentimiento": "negativo",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 25,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 448,
+    "lead_id": "LEAD-448",
+    "mensaje": "Estoy revisando mis opciones.",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 0,
+    "longitud": 29,
+    "palabras_clave": [],
+    "label_intencion": "baja"
+  },
+  {
+    "message_id": 449,
+    "lead_id": "LEAD-449",
+    "mensaje": "¿Puedo revisar los precios?",
+    "sentimiento": "neutro",
+    "num_palabras": 4,
+    "num_preguntas": 1,
+    "longitud": 27,
+    "palabras_clave": [
+      "precio",
+      "visita"
+    ],
+    "label_intencion": "media"
+  },
+  {
+    "message_id": 450,
+    "lead_id": "LEAD-450",
+    "mensaje": "Confirmen por favor que recibieron mi transferencia",
+    "sentimiento": "positivo",
+    "num_palabras": 7,
+    "num_preguntas": 0,
+    "longitud": 51,
+    "palabras_clave": [
+      "transferencia",
+      "comprobante",
+      "registro"
+    ],
+    "label_intencion": "alta"
+  }
+]
