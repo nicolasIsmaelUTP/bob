@@ -125,7 +125,117 @@ bob/
 - Proyecto de Supabase
 - ngrok (para desarrollo local)
 
-## 📞 Soporte
+## � Ejemplos de Conversaciones
+
+A continuación se presentan 3 casos de uso reales para probar la funcionalidad del bot:
+
+### Caso 1: Cliente empresario buscando vehículo comercial
+
+**Historia:** *Carlos es dueño de una pequeña empresa de reparto en Lima y necesita un vehículo comercial económico para expandir su negocio.*
+
+```
+👤 Usuario: Hola, necesito un vehículo comercial para mi negocio de reparto
+
+🤖 BOB: ¡Hola! Encantado de ayudarte. Tenemos varias opciones de vehículos 
+comerciales en subasta. ¿Qué tipo de vehículo buscas específicamente? 
+(furgón, camioneta, minivan)
+
+👤 Usuario: Un furgón pequeño, algo económico
+
+🤖 BOB: Perfecto, tengo estas opciones:
+- CHEVROLET N400 (P4D443): USD 6,720 - Piura, 183,585 km, 2023
+- DFSK K07S (BZD672): USD 3,900 - Lima, 102,110 km, 2021
+- SUZUKI APV FURGON (BUA710): USD 7,200 - Ica, 16,366 km, 2022
+
+👤 Usuario: Me interesa el DFSK. ¿Cómo funciona el proceso?
+
+🤖 BOB: ¡Excelente elección! El proceso es simple:
+1. Regístrate en https://www.somosbob.com/registro
+2. No necesitas pagar para participar
+3. Si ganas, pagas 8% de garantía y luego el 92% restante
+4. Entrega en 5-10 días
+¿Tienes alguna pregunta sobre el proceso?
+
+👤 Usuario: ¿Puedo verlo antes de ofertar?
+
+🤖 BOB: Sí, puedes coordinar una visita previa. Te contactaremos con un 
+asesor para agendar la inspección. Deberás cumplir con requisitos de 
+seguridad (SCTR y EPPS).
+```
+
+### Caso 2: Comprador frecuente consultando sobre Pacífico Seguros
+
+**Historia:** *María es una revendedora con experiencia que ya ha participado en subastas de BOB, pero es su primera vez con Pacífico Seguros.*
+
+```
+👤 Usuario: Hola, vi una moto Honda en Pacífico Seguros. ¿Es igual que las 
+otras subastas?
+
+🤖 BOB: Hola María, las subastas de Pacífico Seguros tienen algunas 
+diferencias importantes:
+- Requieren oblaje de USD 300 como derecho de participación
+- Debes llenar un formulario adicional
+- Puedes visitar los vehículos de miércoles a viernes de 9am a 1pm
+
+👤 Usuario: ¿Y si no gano, pierdo los USD 300?
+
+🤖 BOB: No, si no ganas puedes solicitar la devolución íntegra del oblaje. 
+Si ganas, ese monto se descuenta de la garantía del 8%.
+
+👤 Usuario: Perfecto. ¿Cuál es la Honda disponible?
+
+🤖 BOB: Tenemos:
+- HONDA GLH150 (7895RC): USD 1,086.96 - Cajamarquilla, 2024, con garantía
+
+👤 Usuario: ¿Cómo coordino la visita?
+
+🤖 BOB: Te conectaré con un asesor para que agendes tu visita entre 
+miércoles y viernes de 9am a 1pm. ¿Qué día prefieres?
+```
+
+### Caso 3: Primer usuario explorando opciones y pagos
+
+**Historia:** *José es mecánico y quiere comprar su primer vehículo en subasta para repararlo y revenderlo, pero tiene dudas sobre transparencia y pagos.*
+
+```
+👤 Usuario: ¿Qué es BOB?
+
+🤖 BOB: BOB Subastas es una plataforma online que ayuda a las empresas a 
+vender sus activos en desuso mediante subastas transparentes y seguras. 
+Hemos realizado más de 748 subastas exitosas y fuimos reconocidos por 
+Forbes como una de las 100 mejores startups del Perú.
+
+👤 Usuario: ¿Cómo sé que no están arregladas las subastas?
+
+🤖 BOB: Excelente pregunta. Garantizamos transparencia así:
+- Todas las ofertas están encriptadas con fecha/hora
+- Los nombres de los postores están ocultos
+- El sistema determina al ganador automáticamente
+- Gana siempre la oferta válida más alta
+- Si detectamos intentos de arreglo, bloqueamos al participante
+
+👤 Usuario: Ok, me interesa. Tengo USD 5,000. ¿Qué puedo comprar?
+
+🤖 BOB: Con ese presupuesto tienes varias opciones:
+- CHEVROLET ONIX (Z7C108): USD 4,200 - Lima, 2022
+- CHANGAN CS15 (P4D508): USD 5,100 - Piura, 63,235 km, 2023
+- KIA SOLUTO (T5W378): USD 5,400 - Trujillo, 68,072 km, 2021
+
+👤 Usuario: ¿Cuánto tengo que pagar si gano?
+
+🤖 BOB: Si ganas:
+1. Depositas 8% como garantía (ej: USD 336 para el Chevrolet)
+2. Pagas el 92% restante al vendedor (ej: USD 3,864)
+3. La garantía se convierte en comisión de BOB
+Todo por transferencia bancaria, sin pagos adicionales.
+
+👤 Usuario: ¿Y si compro, puedo revenderlo?
+
+🤖 BOB: ¡Claro! Muchos de nuestros participantes compran para revender y 
+generar ingresos. Es una práctica totalmente permitida.
+```
+
+## �📞 Soporte
 
 Para más información sobre la configuración de WhatsApp Business API, consulta la [documentación oficial](https://developers.facebook.com/docs/whatsapp).
 
