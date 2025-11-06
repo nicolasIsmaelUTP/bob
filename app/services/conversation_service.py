@@ -6,20 +6,20 @@ class ConversationService:
 
     def save_message(self, wa_id: str, role: str, content: str):
         data = {
-            "wa_id": wa_id,
-            "sender_type": role,
-            "content": content
+            "numero_whatsapp": wa_id,
+            "tipo_emisor": role,
+            "contenido": content
         }
-        response = self.supabase.table("messages").insert(data).execute()
+        response = self.supabase.table("mensajes").insert(data).execute()
         return response
     
     def get_conversation_history(self, wa_id: str, limit: int = 10):
         response = (
             self.supabase
-            .table("messages")
+            .table("mensajes")
             .select("*")
-            .eq("wa_id", wa_id)
-            .order("created_at", desc=True)
+            .eq("numero_whatsapp", wa_id)
+            .order("fecha_creacion", desc=True)
             .limit(limit)
             .execute()
         )

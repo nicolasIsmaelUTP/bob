@@ -2,10 +2,11 @@ from typing import Dict, Any
 from .gpt_agent import GPTAgent
 from .whatsapp_service import WhatsAppService
 from .conversation_service import ConversationService
+from ..agents.assistant_agent import agent
 
 class MessageHandler:
     def __init__(self):
-        self.gpt_agent = GPTAgent()
+        # self.gpt_agent = GPTAgent()
         self.whatsapp_service = WhatsAppService()
         self.conversation_service = ConversationService()
 
@@ -37,11 +38,15 @@ class MessageHandler:
 
             # Generar respuesta con GPT
             context_history = self.conversation_service.get_conversation_history(sender)
-            history_texts = "\n".join(f"{msg['sender_type']}: {msg['content']}" for msg in reversed(context_history))
-            prompt = f"Contexto de la conversación:\n{history_texts}\nassistant:"
-            print(f"Generando respuesta con el siguiente prompt:\n{prompt}")
 
-            response_text = await self.gpt_agent.generate_response(prompt)
+            messages = [{"role": msg['tipo_emisor'], "content": msg['contenido']} for msg in reversed(context_history)]
+            messages.append({"role": "user", "content": text})
+
+            # El agente de LangGraph retorna un diccionario con 'messages'
+            response = agent.invoke({"messages": messages})
+            # Extraer el contenido del último mensaje del agente
+            response_text = response["messages"][-1].content
+            print(f"Respuesta generada: {response_text}")
 
             self.conversation_service.save_message(
                 sender,
@@ -50,9 +55,10 @@ class MessageHandler:
             )
 
             # Enviar respuesta por WhatsApp
-            await self.whatsapp_service.send_message(f"+{sender}", response_text)
+            sm_response = await self.whatsapp_service.send_message(f"+{sender}", response_text)
 
             print(f"Mensaje enviado a {name} ({sender}): {response_text}")
+            print(f"Respuesta de la API de WhatsApp: {sm_response.json()}")
             
         except (KeyError, IndexError) as e:
             print(f"Error al procesar mensaje: {e}")

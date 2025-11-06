@@ -4,3 +4,8 @@ pydantic_settings
 requests
 openai
 supabase
+pandas
+scikit-learn
+langchain_openai
+langchain
+langchainhub
